@@ -1,12 +1,7 @@
-import Link from 'next/link'
-import styled from 'styled-components'
-import Header from '../components/header'
+import Layout from '../components/layout'
 
-const Index = () => (
-  <div>
-    <Header />
+export default () => (
+  <Layout>
     <p>Hello Next.js</p>
-  </div>
+  </Layout>
 )
-
-export default Index
