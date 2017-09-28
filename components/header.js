@@ -4,10 +4,10 @@ import A from './a'
 
 const Header = () => (
   <Wrapper>
-    <Link href="/">
+    <Link href='/'>
       <A >Home</A>
     </Link>
-    <Link href="/about">
+    <Link href='/about'>
       <A >About</A>
     </Link>
   </Wrapper>
