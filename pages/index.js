@@ -1,3 +1,4 @@
+import '../global-style'
 import Layout from '../components/layout'
 import Link from 'next/link'
 
